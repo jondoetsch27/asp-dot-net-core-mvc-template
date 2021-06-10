@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{2727AEF3-113A-4C30-82A3-FD7D42242C7C}|Default">
+  <MonoDevelop.Ide.ItemProperties.asp-dot-net-core-mvc-demo PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="asp-dot-net-core-mvc-tests/IntegrationTests.cs">
+    <Files>
+      <File FileName="asp-dot-net-core-mvc-tests/IntegrationTests.cs" Line="108" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="asp-dot-net-core-mvc-demo" expanded="True">
+            <Node name="asp-dot-net-core-mvc-demo" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="asp-dot-net-core-mvc-tests" expanded="True">
+              <Node name="IntegrationTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="asp-dot-net-core-mvc-demo" expanded="True" selected="True">
+            <Node name="asp-dot-net-core-mvc-tests" expanded="True">
+              <Node name="asp.net.core.mvc.tests" expanded="True">
+                <Node name="IntegrationTests" expanded="True" />
+                <Node name="PlayerControllerTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/jonathondoetsch/Projects/asp-dot-net-core-mvc-demo/asp-dot-net-core-mvc-tests/UnitTest1.cs" relfile="asp-dot-net-core-mvc-tests/UnitTest1.cs" line="8" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
